@@ -1,1 +1,1 @@
-print("tested")
+game:Shutdown()
